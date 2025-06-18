@@ -83,6 +83,13 @@ chmod +x install.sh
 
 Язык выбирается автоматически, исходя из переменной окружения `LANG`.
 
+## 🖼 Примеры интерфейса
+
+![](https://github.com/BebraMorgan/better-rm/blob/main/screenshots/2025-06-18-205111_hyprshot.png)
+![](https://github.com/BebraMorgan/better-rm/blob/main/screenshots/2025-06-18-205134_hyprshot.png)
+![](https://github.com/BebraMorgan/better-rm/blob/main/screenshots/2025-06-18-205144_hyprshot.png)
+
+
 ## 📁 Структура проекта
 
 ```
